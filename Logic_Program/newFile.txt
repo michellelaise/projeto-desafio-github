@@ -1,0 +1,21 @@
+# Introdução a lógica de programação
+ - Forma de raciocínio para resolver problemas
+ - Organização
+ - Planejamento
+
+### Técnicas de lógica de programação
+ - Linear
+ - Estruturada
+ - Modular
+ 
+### Fundamentos de algoritmos
+ - Variáveis
+ - Dados
+ - Instruções
+ - Condições
+
+### Tipos
+ - Estrutura condicional > simples, composta, encadeada
+ - Estrutua de repetição > laços, condições de parada
+ - Vetores 
+ - Funções

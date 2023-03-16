@@ -1,0 +1,22 @@
+# Resumo sobre Desenvolvimento de Softwares
+ ### Profissionais
+ - UX Designer (user experience) > melhorando usuabilidade
+ - UI Designer (user interface) > melhorando o estilo da aplicação
+ - Dev Front End > programa a parte visual de um site ou app
+ - Dev Back End > programa a parte que acontece por trás da aplicação, focado no servidor
+ - Dev Full Stack > programa em back e front end, entende e conhece várias linguagens
+ - QA (quality assurance) > analisa a qualidade, segurança e confiança do código
+
+### Ferramentas
+ - Infraestrutura > servidor, data center, cloud (local)
+ - Nuvem pública > sistemas de armazenamento de dados (oracle, amazon, google)
+ - Frameworks > facilitador, diversas soluções já pré-definidas
+
+### Resolução de problemas
+ - Raciocínio lógico
+ - Aperfeiçoamento
+ - Indução
+ - Dedução
+ - Decomposição
+ - Abstração
+ - Padrões

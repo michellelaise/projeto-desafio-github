@@ -1,0 +1,52 @@
+# Metodologia Ágil
+
+### 4 valores do Manifesto Ágil 
+
+ - Individuos e interações
+ - Software em funcionamento 
+ - Colaboração com o cliente
+ - Responder a mudanças
+
+### Característcas de um time ágil
+
+ - Multidisciplinar
+ - Auto-organizado
+ - Entrega valor continuamente
+ - Unido 
+ - Melhoria contínua
+
+ ### Projeto x Processo
+
+  - Processo > recorrente, contínuo, replicável, realizado regularmente, repetitivo
+  - Projeto > esforço temporario p/ atingr um objtivo exclusivo, tem início e fim
+
+ ### Gerenciamento de Projetos
+
+  - Modelo tradicional cascata (waterfall): analise > projeto > implementação > teste > entrega/manut >> VALOR ENTREGUE NO FINAL
+  - Modelo ágil com scrum: ciclos de desenv (sprint) > iterativo e incremental > feedback a cada entrega >> VALOR ENTREGUE CONTINUAMENTE
+ 
+ ### Gestão ágil
+
+  - Flexível e adaptável a mudanças
+  - Colaborativo e que gere transparencia
+  - Voltado ao aprendizado
+  - Entrega continua de valor
+ 
+ ### Tipos de metodologias ageis
+
+ - Scrum
+ - Extreme Programming XP
+ - Kanban
+ - OKR
+
+### Ferramentas para gestão agil de projetos/tarefas
+
+ - Trello
+ - Jira
+ - Notion
+ - Miro
+ - Monday
+ - EasyRetro
+ - Pipety
+ - Clickup
+ - Asana

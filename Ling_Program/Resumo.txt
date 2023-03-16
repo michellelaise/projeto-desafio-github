@@ -1,0 +1,14 @@
+# Linguagem de Programação
+
+ - Sintaxe
+ - Semântica 
+ - Instruções 
+ - Código fonte
+ - Compilador
+
+### Diretrizes para o desenvolvimento de programas
+
+ - Legibilidade
+ - Redigibilidade
+ - Confiabilidade
+ - Custo
